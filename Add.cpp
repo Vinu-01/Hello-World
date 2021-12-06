@@ -16,4 +16,4 @@ int main(void)
     cout<<"Multiplication of entered two numbers is : "<<z<<"\n";
     z=x/y;
     cout<<"Division of entered two numbers is : "<<z<<"\n";
-}
+} 
